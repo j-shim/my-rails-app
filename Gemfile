@@ -15,6 +15,7 @@ gem 'bootstrap_form'
 gem 'jquery-rails'
 gem 'bootstrap-sass'
 
+gem 'faker'
 gem 'rspec-rails', '~> 3.6'
 gem 'factory_bot_rails'
 gem 'rails-controller-testing'
